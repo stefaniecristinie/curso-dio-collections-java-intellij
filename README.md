@@ -1,1 +1,1 @@
-# Curso DIO: Collections Java - IDE: IntelliJ
+# Curso DIO: Trabalhando com Collections Java - IDE: IntelliJ
